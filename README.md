@@ -31,4 +31,4 @@ The dataset used for this project is sourced from Kaggle. You can find the datas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ipl-win-predictor.git
+   git clone https://github.com/AdarshRaj08/IPL-Win-Predictor.git
