@@ -1,6 +1,6 @@
 # IPL Win Predictor
 
-![IPL Win Predictor](https://github.com/yourusername/ipl-win-predictor/images/ipl-logo.jpg)
+![IPL Win Predictor](https://wallpapercave.com/wp/wp3991161.jpg)
 
 Elevate your IPL experience with our Win Predictor powered by machine learning! This project predicts the outcome of IPL matches using a logistic regression model with an accuracy of 80%.
 
